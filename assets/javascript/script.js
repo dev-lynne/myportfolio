@@ -107,7 +107,7 @@ togglePortfolioPopup();
 });
 //typing animation script
 var typed= new Typed(".typing", {
-strings:["Front End Developer", "Back End Developer", "Project Manager", "Junior Data Analyst"],
+strings:["Front End Developer", "Back End Developer"],
 typeSpeed:100,
 backSpeed:60,
 loop:true
