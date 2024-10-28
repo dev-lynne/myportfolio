@@ -33,7 +33,7 @@ Global settings
 }
 body{
     min-height: 100vh;
-    background-image: linear-gradient(to bottom right, var( --pink-light), var(--cyan-light));
+    background-image: linear-gradient(to bottom right, var( --cyan-light), var(--cyan-light));
     color:var(--blue-dark);
     font-size:16px;
     line-height: 1.5;
